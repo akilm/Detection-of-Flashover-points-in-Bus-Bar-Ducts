@@ -1,0 +1,7 @@
+Working procedure:
+•	The output of the three microphones need to be connected to A0 , A1 and A2 pins on the arduino.  
+•	Microphone connected to A0 is A,A1 is B and A2 is C .
+•	A , B and C must be connected in the same order . 
+•	The distance between (A ,B) and (B,C) must be 50 cm .
+•	Open the serial monitor , generate sounds and then send any character from the serial monitor
+	To obtain the approximate flashover point
