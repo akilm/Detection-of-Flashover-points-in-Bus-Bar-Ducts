@@ -1,0 +1,1 @@
+adjust the values of k1 , k2 and k3 every time till the three plots coincide more or less to the same value
