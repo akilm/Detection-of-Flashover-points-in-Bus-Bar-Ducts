@@ -1,0 +1,6 @@
+This is the actual code for the proposed model of flashover point prediction .
+it collects data continuously from the 6 analog pins and sends the data to 
+web server specified only when an interrupt signal that is a character 's' is
+sent back to it . the code for the main server and the gsm module is still under
+progress . it will be updated in this same repository once done
+
